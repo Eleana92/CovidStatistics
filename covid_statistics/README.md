@@ -1,6 +1,6 @@
 # COVID-19 Statistics
 
-A Flutter application displaying statistics regarding the CoVid-19 pandemic.
+A Flutter application displaying statistics regarding the COVID-19 pandemic.
 
 ## Demo
 
